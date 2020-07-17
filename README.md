@@ -1,3 +1,3 @@
 # TicTacToeUI
  TicTacToeUI
-simple tic tac toe game based on Unity UI
+simple TicTacToe game based on Unity UI
